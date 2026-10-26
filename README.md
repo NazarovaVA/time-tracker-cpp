@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/brmfHHFqlhEAAAAi/hourglass-time.gif" alt="" style="height: 1.2em; vertical-align: -0.15em;"> Time Tracker (Тайм-трекер)
+# <img src="https://media1.tenor.com/m/yz_7VcX0WjYAAAAd/cat-changing-the-clock-changing-the-time.gif" alt="" style="height: 2.3em; vertical-align: -0.8em;"> Time Tracker (Тайм-трекер)
 
 **Статус проекта:** В разработке.
 
